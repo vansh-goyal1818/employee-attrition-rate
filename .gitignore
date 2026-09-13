@@ -1,0 +1,21 @@
+# R files
+.Rhistory
+.RData
+.Rproj.user/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary/log files
+*.tmp
+*.log
+
+# Raw dataset - do not upload
+data/*.xlsx
+
+# Large model artifact - do not upload
+results/ml_models.rds
